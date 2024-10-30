@@ -1,0 +1,25 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosansgurmukhi.css);
+
+.hukamnama-display ul {
+	list-style-type: none;
+	padding: 0px;
+}
+
+.hukamnama-display ul li {
+	border: 1px solid #fff;
+	background-color: #ddd;
+	border-radius: 6px;
+}
+
+.hymn-text p {
+	padding-left: 10px;
+	font-size: 30px;
+}
+.hymn-text-translation p {
+	font-size: 25px;
+	font-weight: bold;
+}
+.hymn-text-gurmukhi p {
+	font-size: 50px;
+	font-family: 'Lohit Punjabi', 'Gurmukhi MN', 'Gurmukhi Sangam MN', Raavi, 'Noto Sans Gurmukhi', sans-serif;
+}

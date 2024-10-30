@@ -1,0 +1,39 @@
+.hukamnama-finder {
+	clear: both;
+	font-size: ;
+}
+
+.hukamnama-finder:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.hymn {
+	clear: both;
+	border: 1px solid #ddd;
+}
+
+.hymn-block {
+	float: left;
+}
+
+.hymn-input {
+	padding: 10px;
+	margin-top: 25px;
+}
+
+
+.hymn-text {
+	width: 40%;
+}
+.hymn-text label {
+	display: block;
+}
+.hymn-text p {
+	padding: 10px;
+	font-size: medium;
+}
+.hymn-text-gurmukhi p {
+	font-size: large;
+}
